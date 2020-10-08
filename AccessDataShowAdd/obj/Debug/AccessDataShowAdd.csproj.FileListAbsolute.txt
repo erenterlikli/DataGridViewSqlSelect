@@ -1,0 +1,10 @@
+C:\Users\Eren\source\repos\AccessDataShowAdd\AccessDataShowAdd\bin\Debug\AccessDataShowAdd.exe.config
+C:\Users\Eren\source\repos\AccessDataShowAdd\AccessDataShowAdd\bin\Debug\AccessDataShowAdd.exe
+C:\Users\Eren\source\repos\AccessDataShowAdd\AccessDataShowAdd\bin\Debug\AccessDataShowAdd.pdb
+C:\Users\Eren\source\repos\AccessDataShowAdd\AccessDataShowAdd\obj\Debug\AccessDataShowAdd.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\AccessDataShowAdd\AccessDataShowAdd\obj\Debug\AccessDataShowAdd.Form1.resources
+C:\Users\Eren\source\repos\AccessDataShowAdd\AccessDataShowAdd\obj\Debug\AccessDataShowAdd.Properties.Resources.resources
+C:\Users\Eren\source\repos\AccessDataShowAdd\AccessDataShowAdd\obj\Debug\AccessDataShowAdd.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\AccessDataShowAdd\AccessDataShowAdd\obj\Debug\AccessDataShowAdd.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\AccessDataShowAdd\AccessDataShowAdd\obj\Debug\AccessDataShowAdd.exe
+C:\Users\Eren\source\repos\AccessDataShowAdd\AccessDataShowAdd\obj\Debug\AccessDataShowAdd.pdb
